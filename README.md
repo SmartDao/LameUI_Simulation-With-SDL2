@@ -1,4 +1,4 @@
-# LameUI_Simulation-With-SDL2-
+# LameUI_Simulation-With-SDL2
 #Chinese:
 #基于abhra0897/LameUI_simulation
 #网址：https://github.com/abhra0897/LameUI_simulation
