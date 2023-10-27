@@ -1,0 +1,1274 @@
+# depslib dependency file v1.0
+1686380463 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\default_ubuntu_regular_17.c
+	"default_ubuntu_regular_17.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\default_ubuntu_regular_17.h
+	"../lame_ui.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\lame_ui.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdint.h>
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_bold_17.c
+	"montserrat_bold_17.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_bold_17.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_bold_20.c
+	"montserrat_bold_20.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_bold_20.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_bold_32.c
+	"montserrat_bold_32.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_bold_32.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_bold_48.c
+	"montserrat_bold_48.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_bold_48.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_12.c
+	"montserrat_regular_12.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_12.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_14.c
+	"montserrat_regular_14.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_14.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_17.c
+	"montserrat_regular_17.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_17.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_20.c
+	"montserrat_regular_20.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_20.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_32.c
+	"montserrat_regular_32.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_32.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_48.c
+	"montserrat_regular_48.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\montserrat_regular_48.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_bold_17.c
+	"ubuntu_bold_17.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_bold_17.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_bold_20.c
+	"ubuntu_bold_20.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_bold_20.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_bold_32..c
+	"ubuntu_bold_32..h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_bold_32..h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_bold_32.c
+	"ubuntu_bold_32.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_bold_32.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_bold_48.c
+	"ubuntu_bold_48.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_bold_48.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_12.c
+	"ubuntu_mono_regular_12.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_12.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_14.c
+	"ubuntu_mono_regular_14.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_14.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_17.c
+	"ubuntu_mono_regular_17.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_17.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_20.c
+	"ubuntu_mono_regular_20.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_20.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_32.c
+	"ubuntu_mono_regular_32.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_32.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_48.c
+	"ubuntu_mono_regular_48.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_mono_regular_48.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_12.c
+	"ubuntu_regular_12.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_12.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_14.c
+	"ubuntu_regular_14.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_14.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_20.c
+	"ubuntu_regular_20.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_20.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_32..c
+	"ubuntu_regular_32..h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_32..h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_32.c
+	"ubuntu_regular_32.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_32.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_48.c
+	"ubuntu_regular_48.h"
+
+1678056078 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\fonts\ubuntu_regular_48.h
+	"../lame_ui.h"
+
+1678056078 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lameui\lame_ui.c
+	"lame_ui.h"
+
+1686399548 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\main.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	"sdl_driver.h"
+	"lame_ui.h"
+
+1686399462 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl_driver.h
+	"SDL2/include/SDL2/SDL.h"
+	"SDL2/include/SDL2/SDL_keyboard.h"
+	"SDL2/include/SDL2/SDL_keycode.h"
+	"lame_ui.h"
+	"lcd_config.h"
+	<stdio.h>
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\begin_code.h
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\close_code.h
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1686384252 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\lcd_config.h
+
+1693060308 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\sdl_driver.c
+	"sdl_driver.h"
+	"lame_ui.h"
+
+1693925176 source:e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\demo\demo.c
+	"demo.h"
+
+1686396637 e:\ƽ̨\gui\lame\2.0\lameui_codeblock\lameui\demo\demo.h
+	"../lcd_config.h"
+	"lame_ui.h"
+
+1693925176 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\demo.c
+	"demo.h"
+
+1698338430 e:\ƽ̨\gui\lame\2.1\lameui\demo\demo.h
+	"../lcd_config.h"
+	"lame_ui.h"
+
+1698339036 e:\ƽ̨\gui\lame\2.1\lameui\lcd_config.h
+
+1698338913 source:e:\ƽ̨\gui\lame\2.1\lameui\main.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	"sdl_driver.h"
+	"lame_ui.h"
+
+1686399462 e:\ƽ̨\gui\lame\2.1\lameui\sdl_driver.h
+	"SDL2/include/SDL2/SDL.h"
+	"SDL2/include/SDL2/SDL_keyboard.h"
+	"SDL2/include/SDL2/SDL_keycode.h"
+	"lame_ui.h"
+	"lcd_config.h"
+	<stdio.h>
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\begin_code.h
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\close_code.h
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1684854905 e:\ƽ̨\gui\lame\2.1\lameui\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693060308 source:e:\ƽ̨\gui\lame\2.1\lameui\sdl_driver.c
+	"sdl_driver.h"
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\default_ubuntu_regular_17.c
+	"default_ubuntu_regular_17.h"
+
+1698261307 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\default_ubuntu_regular_17.h
+	"../lame_ui.h"
+
+1698261307 e:\ƽ̨\gui\lame\2.1\lameui\lameui\lame_ui.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdint.h>
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_bold_17.c
+	"montserrat_bold_17.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_bold_17.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_bold_20.c
+	"montserrat_bold_20.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_bold_20.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_bold_32.c
+	"montserrat_bold_32.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_bold_32.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_bold_48.c
+	"montserrat_bold_48.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_bold_48.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_12.c
+	"montserrat_regular_12.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_12.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_14.c
+	"montserrat_regular_14.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_14.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_17.c
+	"montserrat_regular_17.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_17.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_20.c
+	"montserrat_regular_20.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_20.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_32.c
+	"montserrat_regular_32.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_32.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_48.c
+	"montserrat_regular_48.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\montserrat_regular_48.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_bold_17.c
+	"ubuntu_bold_17.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_bold_17.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_bold_20.c
+	"ubuntu_bold_20.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_bold_20.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_bold_32..c
+	"ubuntu_bold_32..h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_bold_32..h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_bold_32.c
+	"ubuntu_bold_32.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_bold_32.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_bold_48.c
+	"ubuntu_bold_48.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_bold_48.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_12.c
+	"ubuntu_mono_regular_12.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_12.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_14.c
+	"ubuntu_mono_regular_14.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_14.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_17.c
+	"ubuntu_mono_regular_17.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_17.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_20.c
+	"ubuntu_mono_regular_20.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_20.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_32.c
+	"ubuntu_mono_regular_32.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_32.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_48.c
+	"ubuntu_mono_regular_48.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_mono_regular_48.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_12.c
+	"ubuntu_regular_12.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_12.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_14.c
+	"ubuntu_regular_14.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_14.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_20.c
+	"ubuntu_regular_20.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_20.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_32..c
+	"ubuntu_regular_32..h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_32..h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_32.c
+	"ubuntu_regular_32.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_32.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_48.c
+	"ubuntu_regular_48.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\lameui\fonts\ubuntu_regular_48.h
+	"lame_ui.h"
+
+1698261307 source:e:\ƽ̨\gui\lame\2.1\lameui\lameui\lame_ui.c
+	"lame_ui.h"
+
+1698336496 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\widget.c
+	"demo.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\forest.c
+	"forest.h"
+
+1698337197 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\forest.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\send_button.c
+	"send_button.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\send_button.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\sent_button.c
+	"sent_button.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\sent_button.h
+	"lame_ui.h"
+
+1698337327 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\simple_example.c
+	"demo.h"
+	"res/forest.h"
+	"res/send_button.h"
+	"res/sent_button.h"
+
+1698338181 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\big_example.c
+	"demo.h"
+	"../LameUI/fonts/ubuntu_regular_32.h"
+	"../LameUI/fonts/montserrat_regular_48.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\back.c
+	"back.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\back.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\background.c
+	"background.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\background.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\close.c
+	"close.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\close.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\heart_filled.c
+	"heart_filled.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\heart_filled.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\heart_line.c
+	"heart_line.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\heart_line.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\forest_653448.c
+	"forest_653448.h"
+
+1698338615 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\forest_653448.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\info.c
+	"info.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\info.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\lastofus.c
+	"lastofus.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\lastofus.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\next.c
+	"next.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\next.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\pause.c
+	"pause.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\pause.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\grad.c
+	"grad.h"
+
+1698338628 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\grad.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\play.c
+	"play.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\play.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\playlist.c
+	"playlist.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\playlist.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\popup_bckgrnd.c
+	"popup_bckgrnd.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\popup_bckgrnd.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\repeat.c
+	"repeat.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\repeat.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\shuffle.c
+	"shuffle.h"
+
+1692823939 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\shuffle.h
+	"lame_ui.h"
+
+1692823939 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\res\grad_color1_bg.c
+	"grad_color1_bg.h"
+
+1698338695 e:\ƽ̨\gui\lame\2.1\lameui\demo\res\grad_color1_bg.h
+	"lame_ui.h"
+
+1698338884 source:e:\ƽ̨\gui\lame\2.1\lameui\demo\music.c
+	"demo.h"
+	"../LameUI/fonts/montserrat_regular_32.h"
+	"../LameUI/fonts/ubuntu_regular_32..h"
+	"../LameUI/fonts/ubuntu_bold_20.h"
+	"../LameUI/fonts/montserrat_bold_20.h"
+	"res/back.h"
+	"res/next.h"
+	"res/shuffle.h"
+	"res/play.h"
+	"res/pause.h"
+	"res/repeat.h"
+	"res/heart_filled.h"
+	"res/heart_line.h"
+	"res/playlist.h"
+	"res/info.h"
+	"res/close.h"
+	"res/lastofus.h"
+	"res/background.h"
+	"res/popup_bckgrnd.h"
+
